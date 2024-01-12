@@ -1,5 +1,5 @@
 ## Text-Generation
-A two-layer LSTM neural network has been implemented for text generation based on a Sci-Fi corpus. 
+A two-layer LSTM neural network has been implemented for text generation based on a Sci-Fi corpus. The data is available at: https://www.kaggle.com/datasets/jannesklaas/scifi-stories-text-corpus
 
 ### Pre-processing steps include:
 * Split the text into sentences
